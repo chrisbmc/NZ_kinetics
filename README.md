@@ -3,6 +3,6 @@
 
 **Click for results on YouTube:**
 
-[![Youtube video link](https://i9.ytimg.com/vi/205v0R6GPCY/mq1.jpg?sqp=CIC9y-oF&rs=AOn4CLAEzkLBHyrn03dv9oyf1UQpQfv5vA)](https://youtu.be/205v0R6GPCY)
+[![Youtube video link](https://img.youtube.com/vi/205v0R6GPCY/0.jpg)](https://youtu.be/205v0R6GPCY)
 
-[![Youtube video link](https://i9.ytimg.com/vi/0-MWoDK2_0w/mq2.jpg?sqp=CKy_y-oF&rs=AOn4CLC082enBTyMfchi4wYm9V-VtFBF8Q)](https://youtu.be/0-MWoDK2_0w)
+[![Youtube video link](https://img.youtube.com/vi/0-MWoDK2_0w/0.jpg](https://youtu.be/0-MWoDK2_0w)
